@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FlaNoronha
+- 👋 Hi, I’m Flávia
 - 👀 I’m interested in HTML, CSS, Python
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on any begginer projects
-- 📫 How to reach me flahsn@gmail.com
 
 <div>
    <a href="https://github.com/FlaNoronha">
