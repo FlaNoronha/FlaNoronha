@@ -6,14 +6,14 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Flávia Noronha</h1>
- <a href="https://www.instagram.com/flahnoronha" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top;">
+ <a href="https://www.instagram.com/flahnoronha" >
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top;" target="_blank">
   </a> 
-  <a href="flahsn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top;">
+  <a href="flahsn@gmail.com" >
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:top;" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/flavia-snoronha" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top;">
+  <a href="https://www.linkedin.com/in/flavia-snoronha" >
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top;" target="_blank">
   </a>
 </div>
 
@@ -48,7 +48,7 @@ I'm 31 years old, I live in Belo Horizonte/MG and I love programming and drawing
 </br>
 <div display="inline-block">
   <p align="left">📚 I'm studying HTML, CSS5, JavaScript and started my studies for Web development;</p>
-   <p align="left">📷 I share my experiences and hobbies on <a href="https://www.instagram.com/flahnoronha">Instagram</a>. Follow there and come chat!</p>
+   <p align="left">📷 I share my experiences and hobbies on <a href="https://www.instagram.com/flahnoronha" target="_blank">Instagram</a>. Follow there and come chat!</p>
     <p align="left">☕🎮 I only wake up with coffee, I love games and drawing when I'm inspired.</p>
 </div>
 
@@ -66,5 +66,5 @@ I'm 31 years old, I live in Belo Horizonte/MG and I love programming and drawing
 
 </div>
 
- <a href="www.instagram.com/flahnoronha" target="_blank" ><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/flavia-snoronha" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+ <a href="www.instagram.com/flahnoronha"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" target="_blank" />
+<a href="https://www.linkedin.com/in/flavia-snoronha"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank" />
