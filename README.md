@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/xHtwLNM/Image-1-no-fundo.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/myCJtL5/Image-1-no-fundo.png">
 
 </br>
 </br>
@@ -34,7 +34,7 @@ I'm 31 years old, I live in Belo Horizonte/MG and I love programming and drawing
 </div>
 
 ### 🖥️ Technologies and Tools: 
-<img width="300px" align="right" src="https://i.ibb.co/pQ6y7xt/image-2-no-fundo.png">
+<img width="300px" align="right" src="https://i.ibb.co/SK0S8MD/image-2-no-fundo.png">
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
