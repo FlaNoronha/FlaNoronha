@@ -22,7 +22,7 @@
 
 ## Hello, Devs!!
 
-I'm 31 years old, I live in Belo Horizonte/MG and I love programming and drawing! I'm adventurous in the world of programming, official bug creator, and the more I learn and get angry, the more I love it all!  ❤
+I'm 32 years old, I live in Belo Horizonte/MG and I love programming and drawing! I'm adventurous in the world of programming, official bug creator, and the more I learn and get angry, the more I love it all!  ❤
 
 </br>
 </br>
